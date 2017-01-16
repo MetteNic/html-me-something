@@ -1,0 +1,66 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    position: fixed;
+
+}
+li{
+  display: inline;
+}
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#AboutMe{
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+table{
+  margin:auto;
+
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+th{
+  text-align: center;
+   font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+
+}
+#FindMe{
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+button {
+
+          background: #ECECEC;
+          border-radius: 15px;
+          padding: 10px 20px;
+          display: block;
+          font-family: arial;
+          font-weight: bold;
+          color:#7f7f7f;
+          text-decoration: none;
+          text-shadow:0px 1px 0px #fff;
+          border:1px solid #a7a7a7;
+          width: 145px;
+          margin:0px auto;
+          margin-top:100px;
+          box-shadow: 0px 2px 1px white inset, 0px -2px 8px white, 0px 2px 5px rgba(0, 0, 0, 0.1), 0px 8px 10px rgba(0, 0, 0, 0.1);
+          -webkit-transition:box-shadow 0.5s;
+
+}
+button a {
+  color: black;
+}
+
+footer {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 10px;
+}
